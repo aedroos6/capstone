@@ -364,6 +364,8 @@ font-weight: bold;
 .c3-headline{
   padding-bottom: .5rem;
 }
+}
+
 /*Thesis*/
 .container4{
   display: flex;
@@ -397,6 +399,7 @@ font-weight: bold;
 .container4 .content-container2:nth-child(0n+1){
   background-color: #dadbd9;
 }
+
 /*Mobile*/
 @media only screen and (max-width: 570px){
   .thesis{
